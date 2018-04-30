@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SchereSteinPapier</string>
+    <string name="tvWelcome.text">Willkommen zu Schere-Stein-Papier!</string>
+    <string name="tvGesture.text">Bitte wählen Sie ihre Geste.</string>
+    <string name="btnScissors.text">Schere</string>
+    <string name="btnStone.text">Stein</string>
+    <string name="btnPaper.text">Papier</string>
+    <string name="game_value_scissors">Schere</string>
+    <string name="game_value_stone">Stein</string>
+    <string name="game_value_paper">Papier</string>
+    <string name="won_text">Sie haben gewonnen.</string>
+    <string name="lost_text">Sie haben leider verloren.</string>
+    <string name="draw_text">Es gab ein Unentschieden.</string>
+    <string name="computer_selection">Der Computer hat %1$s gewählt.</string>
+</resources>
